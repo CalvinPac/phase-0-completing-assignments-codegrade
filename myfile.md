@@ -1,0 +1,3 @@
+ls
+/home
+npm test 
